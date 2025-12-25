@@ -193,6 +193,7 @@ The project uses **Blynk IoT** for:
 ##  Authors
 
 **Het Virani (22BIT252D)**
+
 **Dilon Brahmbhatt (22BIT236D)**
 
 Under the guidance of
